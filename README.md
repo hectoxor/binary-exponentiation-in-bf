@@ -1,2 +1,2 @@
-# breadth-first-search-algo-with-BF
-BFS algo written by Brainfuck
+# binary exponentiation-with-BF
+binary exponentiation algo in Brainfuck
